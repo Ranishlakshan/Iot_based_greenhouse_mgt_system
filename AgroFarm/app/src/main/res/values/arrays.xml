@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planets_array">
+        <item>vegetables</item>
+        <item>flowers</item>
+        <item>fruits</item>
+        <item>other</item>
+    </string-array>
+</resources>
