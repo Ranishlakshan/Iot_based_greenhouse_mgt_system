@@ -3,7 +3,7 @@ package com.example.agrofarm.Models;
 import com.google.firebase.database.ServerValue;
 
 public class Post {
-
+    //post desc
     public String postKey;
     private String title;
     private String description;
